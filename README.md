@@ -25,3 +25,8 @@ Sketch Engine
 
 2) 
 
+![](https://github.com/albinaprikhodina/hw6/blob/master/Снимок%20экрана%202018-04-09%20в%2011.40.33.png)
+Для обоих глаголов дополнение "behaviour", только для "affect" - "ability". 
+
+3) 
+
