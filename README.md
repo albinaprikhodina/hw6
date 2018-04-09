@@ -31,3 +31,6 @@ Sketch Engine
 
 3) 
 
+![](https://github.com/albinaprikhodina/hw6/blob/master/Снимок%20экрана%202018-04-09%20в%2011.54.43.png) 
+![](
+
